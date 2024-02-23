@@ -1,7 +1,7 @@
 ## println("Hello world, I'm @stxrkwas.")
-<br>
+
 - 👋 Hi, I’m Maria Luiza
-- - 👀 I’m interested in learning, music, books and movies. 
+- 👀 I’m interested in learning, music, books and movies. 
 - 🌱 I’m currently learning Kotlin 
 - 😄 Pronouns: she/her
 

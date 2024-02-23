@@ -1,4 +1,4 @@
-## println("Hi, I'm @stxrkwas. Hello, world!")
+## println("Hello world, I'm @stxrkwas.")
 - 👋 Hi, I’m Maria Luiza
 
 <div>

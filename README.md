@@ -1,8 +1,9 @@
 ## println("Hello world, I'm @stxrkwas.")
 
 - 👋 Hi, I’m Maria Luiza
-- 👀 I’m interested in learning, music, books and movies. 
-- 🌱 I’m currently learning English
+- 👀 I’m interested in learning, music, books and movies.
+- 🗣️ I speak Portuguese and English
+- 🌱 I’m currently learning Kotlin and Laravel 
 - 👩‍💻 Favorite programming languages: Kotlin and Java
 - 😄 Pronouns: she/her
 

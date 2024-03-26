@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m Maria Luiza
 - 👀 I’m interested in learning, music, books and movies. 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning English
+- 👩‍💻 Favorite programming languages: Kotlin and Java
 - 😄 Pronouns: she/her
 
 <br>

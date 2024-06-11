@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Maria Luiza
 - 👀 I’m interested in learning, music, books and movies.
-- 🗣️ I speak Portuguese and English
-- 🌱 I’m currently learning Kotlin
+- 🗣️ Brazilian Portuguese and English
+- 🌱 I’m currently learning Tailwind CSS.
 - 👩‍💻 Favorite programming languages: Kotlin
 - 😄 Pronouns: she/her
 
